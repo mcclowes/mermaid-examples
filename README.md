@@ -13,12 +13,18 @@ sequenceDiagram
 
 ```mermaid
 graph TD;
-    A[Accounting]-->B{Skip};
+    A[Accounting]-->B{Skip?};
     B-->C[Accounting consent];
     C-->D[Accounting auth];
     D-->E[Accounting success];
     E-->F[Banking]
     B-->F
+    F-->G{Skip?};
+    G-->H[Banking consent];
+    H-->I[Banking auth];
+    I-->J[Banking success];
+    J-->K[Overview]
+    G-->K
 ```
 
 
