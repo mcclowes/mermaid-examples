@@ -33,7 +33,7 @@ graph TD;
 
 # Diagrams.net
 
-[![Test Embedding draw.io](./Test%20Embedding.drawio.svg)](https://app.diagrams.net/#Hmcclowes/mermaid-examples/main/Untitled%20Diagram.drawio.svg)
+[![test embed](./Untitled%20Diagram.drawio.svg)](https://app.diagrams.net/#Hmcclowes/mermaid-examples/main/Untitled%20Diagram.drawio.svg)
 
 # Other non-mermaid cool stuff
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
