@@ -15,6 +15,6 @@ sequenceDiagram
 graph TD;
     Accounting-->Banking;
     Accounting-->Commerce;
-    Banking-->Other documents;
-    Commerce-->Other documents;
+    Banking-->'Other documents';
+    Commerce-->'Other documents';
 ```
