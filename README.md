@@ -31,8 +31,9 @@ graph TD;
     G-->K
 ```
 
+# Diagrams.net
 
-
+[![Test Embedding draw.io](./Test%20Embedding.drawio.svg)](https://app.diagrams.net/#Hmcclowes%2Fmermaid-examples%2Fmain%2FUntitled%20Diagram.drawio.svg)
 
 # Other non-mermaid cool stuff
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
