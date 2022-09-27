@@ -1,5 +1,11 @@
 # mermaid-examples
 
+Diagram examples
+
+Testing in ReadMe here: https://docs.codat.io/docs/foo
+
+
+
 ## Default sequence diagram
 
 ```mermaid
